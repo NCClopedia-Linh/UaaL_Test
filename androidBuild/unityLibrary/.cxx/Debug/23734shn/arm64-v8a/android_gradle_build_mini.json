@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/lynhz/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/cpp/CMakeLists.txt",
+    "/Users/lynhz/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Applications/Unity/Hub/Editor/6000.0.58f1/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/lynhz/uaal-example/UnityProject/androidBuild/unityLibrary/.cxx/Debug/23734shn/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Applications/Unity/Hub/Editor/6000.0.58f1/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/lynhz/uaal-example/UnityProject/androidBuild/unityLibrary/.cxx/Debug/23734shn/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "game::@d02bb112ea9f9c2ed29f": {
+      "artifactName": "game",
+      "abi": "arm64-v8a",
+      "output": "/Users/lynhz/uaal-example/UnityProject/androidBuild/unityLibrary/build/intermediates/cxx/Debug/23734shn/obj/arm64-v8a/libgame.so",
+      "runtimeFiles": []
+    }
+  }
+}

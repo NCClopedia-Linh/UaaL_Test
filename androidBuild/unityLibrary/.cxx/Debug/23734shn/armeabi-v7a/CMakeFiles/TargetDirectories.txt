@@ -1,0 +1,5 @@
+/Users/lynhz/uaal-example/UnityProject/androidBuild/unityLibrary/.cxx/Debug/23734shn/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/lynhz/uaal-example/UnityProject/androidBuild/unityLibrary/.cxx/Debug/23734shn/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/lynhz/uaal-example/UnityProject/androidBuild/unityLibrary/.cxx/Debug/23734shn/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+/Users/lynhz/uaal-example/UnityProject/androidBuild/unityLibrary/.cxx/Debug/23734shn/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/lynhz/uaal-example/UnityProject/androidBuild/unityLibrary/.cxx/Debug/23734shn/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir

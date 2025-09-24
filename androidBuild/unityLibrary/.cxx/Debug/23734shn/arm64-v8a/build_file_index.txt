@@ -1,0 +1,2 @@
+/Users/lynhz/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/lynhz/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt
